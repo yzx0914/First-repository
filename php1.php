@@ -1,3 +1,3 @@
 <php>
-  
-  phplnfe();
+  11112222
+  phpinfo();
